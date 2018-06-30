@@ -1,0 +1,16 @@
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\bin\Debug\Database1.mdf
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\bin\Debug\Database1_log.ldf
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\bin\Debug\DBPRAKTIKA.exe.config
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\bin\Debug\DBPRAKTIKA.exe
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\bin\Debug\DBPRAKTIKA.pdb
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.Form1.resources
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.Properties.Resources.resources
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.csproj.GenerateResource.Cache
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.csproj.CoreCompileInputs.cache
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.exe
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.pdb
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.ChangeGroup.resources
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.csprojAssemblyReference.cache
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.Form3.resources
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.regform.resources
+C:\Users\Herqs\source\repos\DBPRAKTIKA\DBPRAKTIKA\obj\Debug\DBPRAKTIKA.FormAddRemove.resources
